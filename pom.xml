@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://18.132.243.132:8081/repository/ashunew1/</url>
+	      <name>Group A Releases Nexus Repository</name>
+	      <url>http://18.153.81.252:8081/repository/group-A-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.132.243.132:8081/repository/newashu/</url>
+	      <name>Group A Snapshot Nexus Repository </name>
+	      <url>http://18.153.81.252:8081/repository/group-A-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
